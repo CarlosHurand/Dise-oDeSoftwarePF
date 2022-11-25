@@ -1,2 +1,2 @@
-# Dise-oDeSoftwarePF
+# DiseñoDeSoftwarePF
 Ejemplos compartidos en clase
